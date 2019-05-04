@@ -9,10 +9,17 @@ body {
 	line-height: 2;
 }
 
-.jumbotron {
-     background-repeat: no-repeat;
-     background-attachment: fixed;
-     background-position: center;
-     background-size: cover;
+.h3-1 {
+	height: 60px;
+    line-height: 60px;
+    font-size: 2em;
 }
 
+.card-text {
+	font-family: ‘cwTeXKai’, serif;
+}
+footer {
+	height: 50px;
+	line-height: 50px;
+	background-color: #000;
+}
